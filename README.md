@@ -1,5 +1,5 @@
 # 💫 About Me:
-:bulb:Lead Cybersecurity Instructor and Curriculum developer.\
+:bulb:Cybersecurity Instructor and Curriculum developer.\
 :speaker:I design and deliver comprehensive training programs.\
 :green_heart:I love what I do! Lets connect.
 
