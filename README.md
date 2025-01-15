@@ -2,7 +2,11 @@
 :bulb:Cybersecurity Instructor and Curriculum developer.\
 :speaker:I design and deliver comprehensive training programs.\
 :green_heart:I love what I do! Lets connect.\
-:notebook:Curious about what I teach? Check out my lesson plan summaries.
+:notebook:Curious about what I teach? Check out my lesson plan summaries.\
+:green_book:Currently studying Microsoft Azure.\
+:runner:Avid Runner.\
+:video_game: Gamer.
+
 
 <br><br> 
 
